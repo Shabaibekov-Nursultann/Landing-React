@@ -1,0 +1,17 @@
+.helpCard {
+  width: 360px;
+  height: 360px;
+  background: #ffe2de;
+  font-family: Larsseit;
+  font-size: 32px;
+  line-height: 34px;
+  letter-spacing: -0.006em;
+  color: #ffffff;
+  flex-wrap: wrap;
+}
+
+.helpCard hr {
+    color: #b69f9f;
+    justify-content: space-between;
+
+}
